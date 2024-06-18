@@ -1,4 +1,5 @@
 {
-  "accentColor": "",
-  "theme": "system"
+  "accentColor": "#4cbd3d",
+  "theme": "system",
+  "cssTheme": "Obsidian gruvbox"
 }
