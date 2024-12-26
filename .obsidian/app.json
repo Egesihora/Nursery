@@ -1,3 +1,4 @@
 {
-  "attachmentFolderPath": "./Pics"
+  "attachmentFolderPath": "./Pics",
+  "showLineNumber": true
 }
